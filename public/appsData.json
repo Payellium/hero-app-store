@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://img.icons8.com/stickers/1200/linux-client.jpg",
+    "title": "TaskMaster Pro",
+    "companyName": "NovaSoft",
+    "id": 1,
+    "description": "TaskMaster Pro is a powerful productivity application designed to help individuals and teams manage tasks, projects, and deadlines efficiently. Users can create detailed task lists, set priorities, add reminders, and monitor progress through a clean and intuitive dashboard. With smart notifications and flexible organization tools, the app helps improve focus, reduce missed deadlines, and maintain a consistent workflow for both personal and professional use.",
+    "size": 45,
+    "reviews": 1240,
+    "ratingAvg": 4.5,
+    "downloads": 52000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 420 },
+      { "name": "5 star", "count": 520 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/stickers/1200/eject.jpg",
+    "title": "FitTrack",
+    "companyName": "Healthify",
+    "id": 2,
+    "description": "FitTrack is a comprehensive fitness and wellness app built to support an active and healthy lifestyle. It allows users to log workouts, track calories burned, monitor daily activity levels, and analyze progress over time. With personalized insights, goal-setting features, and performance summaries, FitTrack helps users stay motivated, consistent, and informed throughout their fitness journey.",
+    "size": 60,
+    "reviews": 980,
+    "ratingAvg": 4.2,
+    "downloads": 43000,
+    "ratings": [
+      { "name": "1 star", "count": 55 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 330 },
+      { "name": "5 star", "count": 295 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/stickers/1200/baseball-cap.jpg",
+    "title": "NoteNest",
+    "companyName": "Paperless Inc",
+    "id": 3,
+    "description": "NoteNest is a simple yet secure note-taking application designed for students, professionals, and creatives. Users can write, edit, organize, and search notes effortlessly while enjoying cloud synchronization across devices. The app focuses on speed, privacy, and ease of use, making it ideal for capturing ideas, meeting notes, study materials, and important information anytime, anywhere.",
+    "size": 25,
+    "reviews": 760,
+    "ratingAvg": 4.6,
+    "downloads": 39000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 110 },
+      { "name": "4 star", "count": 260 },
+      { "name": "5 star", "count": 335 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/stickers/1200/compass.jpg",
+    "title": "Weatherly",
+    "companyName": "SkyTech",
+    "id": 4,
+    "description": "Weatherly delivers accurate and real-time weather updates to help users plan their day with confidence. The app provides hourly forecasts, extended weekly outlooks, temperature trends, and weather alerts for severe conditions. With an easy-to-read interface and reliable data sources, Weatherly ensures users stay informed about changing weather conditions wherever they are.",
+    "size": 30,
+    "reviews": 1500,
+    "ratingAvg": 4.1,
+    "downloads": 67000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 340 },
+      { "name": "4 star", "count": 480 },
+      { "name": "5 star", "count": 380 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/stickers/1200/plasma-ball.jpg",
+    "title": "EduLearn",
+    "companyName": "BrightFuture",
+    "id": 5,
+    "description": "EduLearn is an online learning platform designed to make education accessible and engaging for students of all levels. It offers structured courses, video lessons, quizzes, and progress tracking tools. Users can learn at their own pace while gaining practical knowledge and skills. EduLearn supports continuous learning and helps students stay motivated through clear goals and achievements.",
+    "size": 80,
+    "reviews": 2100,
+    "ratingAvg": 4.7,
+    "downloads": 98000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 980 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkTcZmVO8QVYSGUYhplJHSGfzSZO8y4OGvyQ&s",
+    "title": "MoneyMate",
+    "companyName": "FinCore",
+    "id": 6,
+    "description": "MoneyMate is a personal finance management app that helps users track expenses, manage budgets, and understand spending habits. The app provides detailed summaries, monthly reports, and visual charts to simplify financial planning. By offering clear insights into income and expenses, MoneyMate helps users make smarter financial decisions and build better saving habits.",
+    "size": 55,
+    "reviews": 890,
+    "ratingAvg": 4.3,
+    "downloads": 47000,
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 85 },
+      { "name": "3 star", "count": 190 },
+      { "name": "4 star", "count": 310 },
+      { "name": "5 star", "count": 260 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/stickers/1200/watches-front-view.jpg",
+    "title": "PhotoSpark",
+    "companyName": "PixelWorks",
+    "id": 7,
+    "description": "PhotoSpark is a creative photo editing app that allows users to enhance images with filters, effects, and basic editing tools. Designed for both casual users and content creators, the app offers fast performance and intuitive controls. PhotoSpark makes it easy to transform everyday photos into visually appealing content for social media or personal collections.",
+    "size": 90,
+    "reviews": 1340,
+    "ratingAvg": 4.4,
+    "downloads": 72000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 430 },
+      { "name": "5 star", "count": 470 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/stickers/1200/gift.jpg",
+    "title": "TravelGo",
+    "companyName": "WanderLab",
+    "id": 8,
+    "description": "TravelGo is a travel planning app designed to help users discover destinations, organize trips, and manage travel schedules. The app provides location guides, itinerary planning tools, and travel tips to make journeys smoother. Whether planning a short getaway or a long vacation, TravelGo simplifies travel preparation and decision-making.",
+    "size": 65,
+    "reviews": 620,
+    "ratingAvg": 4.0,
+    "downloads": 31000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 120 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/stickers/1200/repeat.jpg",
+    "title": "MusicWave",
+    "companyName": "Soundify",
+    "id": 9,
+    "description": "MusicWave is a modern music streaming app that allows users to explore, stream, and organize their favorite tracks. With personalized recommendations and playlist creation features, the app delivers an enjoyable listening experience. MusicWave focuses on smooth playback, easy navigation, and helping users discover new artists and genres.",
+    "size": 110,
+    "reviews": 3500,
+    "ratingAvg": 4.8,
+    "downloads": 150000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 1900 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/arcade/1200/bowler-hat.jpg",
+    "title": "ShopSmart",
+    "companyName": "RetailHub",
+    "id": 10,
+    "description": "ShopSmart is an online shopping application designed to offer a smooth and secure buying experience. Users can browse products, compare prices, read reviews, and discover exclusive deals. With easy navigation and fast checkout options, ShopSmart helps users save time and money while shopping from trusted sellers.",
+    "size": 75,
+    "reviews": 1700,
+    "ratingAvg": 4.3,
+    "downloads": 86000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 500 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/stickers/1200/cost.jpg",
+    "title": "QuickScan",
+    "companyName": "DocuTech",
+    "id": 11,
+    "description": "QuickScan is a mobile document scanning app that transforms physical documents into clear digital copies. Users can scan receipts, notes, and paperwork, then organize and store them securely. The app is designed for speed and accuracy, making it ideal for students, professionals, and small businesses.",
+    "size": 40,
+    "reviews": 540,
+    "ratingAvg": 4.1,
+    "downloads": 28000,
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 125 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/external-filled-outline-design-circle/1200/external-Discount-Sticker-sale-filled-outline-design-circle.jpg",
+    "title": "GameZone",
+    "companyName": "PlayNext",
+    "id": 12,
+    "description": "GameZone is a gaming platform that offers a wide collection of arcade and casual games for all ages. The app provides smooth gameplay, regular updates, and engaging challenges. GameZone is designed to deliver entertainment during short breaks or extended play sessions with easy controls and fun visuals.",
+    "size": 150,
+    "reviews": 4100,
+    "ratingAvg": 4.6,
+    "downloads": 200000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 140 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1300 },
+      { "name": "5 star", "count": 2070 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/stickers/1200/gear.jpg",
+    "title": "LanguageLoop",
+    "companyName": "LinguaSoft",
+    "id": 13,
+    "description": "LanguageLoop is an interactive language learning app designed to help users build vocabulary, improve pronunciation, and practice grammar. The app uses short lessons, quizzes, and progress tracking to support consistent learning. LanguageLoop is suitable for beginners as well as learners aiming to strengthen their communication skills.",
+    "size": 85,
+    "reviews": 1950,
+    "ratingAvg": 4.7,
+    "downloads": 104000,
+    "ratings": [
+      { "name": "1 star", "count": 45 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 680 },
+      { "name": "5 star", "count": 885 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/stickers/1200/radio.jpg",
+    "title": "RecipeBook",
+    "companyName": "KitchenLab",
+    "id": 14,
+    "description": "RecipeBook is a cooking companion app that helps users discover, save, and organize recipes. The app provides step-by-step instructions, ingredient lists, and cooking tips. Whether cooking daily meals or trying new dishes, RecipeBook makes meal preparation easier and more enjoyable.",
+    "size": 50,
+    "reviews": 720,
+    "ratingAvg": 4.4,
+    "downloads": 36000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 55 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 260 },
+      { "name": "5 star", "count": 235 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/stickers/1200/batman-new.jpg",
+    "title": "SleepWell",
+    "companyName": "MindCare",
+    "id": 15,
+    "description": "SleepWell is a wellness app designed to improve sleep quality through tracking and relaxation tools. It offers sleep analysis, calming sounds, and bedtime routines to help users relax. By promoting healthy sleep habits, SleepWell supports better mental focus, mood, and overall well-being.",
+    "size": 70,
+    "reviews": 1120,
+    "ratingAvg": 4.5,
+    "downloads": 58000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 75 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 390 },
+      { "name": "5 star", "count": 405 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/stickers/1200/music-library.jpg",
+    "title": "NewsFlash",
+    "companyName": "MediaNow",
+    "id": 16,
+    "description": "NewsFlash is a news aggregation app that delivers breaking news and daily updates from trusted sources. Users can customize categories, follow topics of interest, and stay informed with concise summaries. NewsFlash ensures fast access to relevant information in a clean and distraction-free interface.",
+    "size": 35,
+    "reviews": 980,
+    "ratingAvg": 4.0,
+    "downloads": 42000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 230 },
+      { "name": "4 star", "count": 310 },
+      { "name": "5 star", "count": 230 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/stickers/1200/live-folder.jpg",
+    "title": "CloudDrive",
+    "companyName": "DataSafe",
+    "id": 17,
+    "description": "CloudDrive is a secure cloud storage app that allows users to store, manage, and access files from anywhere. The app supports file sharing, backup, and synchronization across devices. CloudDrive focuses on data security and reliability, making it suitable for both personal and professional use.",
+    "size": 95,
+    "reviews": 1600,
+    "ratingAvg": 4.6,
+    "downloads": 88000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 280 },
+      { "name": "4 star", "count": 540 },
+      { "name": "5 star", "count": 630 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/stickers/1200/airplane-take-off.jpg",
+    "title": "EventEase",
+    "companyName": "PlanIt",
+    "id": 18,
+    "description": "EventEase is an event management app that helps users plan, organize, and track events efficiently. From scheduling and reminders to guest management, the app simplifies event coordination. EventEase is ideal for personal gatherings, meetings, and small-scale professional events.",
+    "size": 48,
+    "reviews": 430,
+    "ratingAvg": 4.2,
+    "downloads": 21000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 45 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 120 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/win10/1200/wind-turbine-2.jpg",
+    "title": "StudyBuddy",
+    "companyName": "EduCore",
+    "id": 19,
+    "description": "StudyBuddy is a study planning app designed to help students manage schedules, track assignments, and stay organized. The app provides reminders, goal tracking, and progress insights. StudyBuddy supports better time management and helps students stay focused throughout their academic journey.",
+    "size": 52,
+    "reviews": 860,
+    "ratingAvg": 4.5,
+    "downloads": 45000,
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 65 },
+      { "name": "3 star", "count": 160 },
+      { "name": "4 star", "count": 290 },
+      { "name": "5 star", "count": 310 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/quill/1200/sticker.jpg",
+    "title": "MapMate",
+    "companyName": "GeoWorks",
+    "id": 20,
+    "description": "MapMate is a navigation and mapping app that helps users find routes, explore locations, and navigate efficiently. The app offers real-time directions, location search, and route optimization. MapMate is designed to make travel smoother and more reliable for daily commuting and long-distance journeys.",
+    "size": 100,
+    "reviews": 2900,
+    "ratingAvg": 4.7,
+    "downloads": 140000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1480 }
+    ]
+  }
+]

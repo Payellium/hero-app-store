@@ -17,7 +17,7 @@ const Banner = () => {
         <Link to="https://www.apple.com/app-store/"><button className="btn p-3"><img src={appStore} alt="" />App Store</button></Link>
       </div>
       <div>
-        <img className="max-w-md mx-auto" src={hero} alt="" />
+        <img className="max-w-md w-full mx-auto" src={hero} alt="" />
       </div>
     </div>
   );
