@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { useLoaderData } from "react-router";
+import { Link, useLoaderData } from "react-router";
 import AppCard from "../AppCard/AppCard";
 
 
@@ -57,6 +57,7 @@ const AllApps = () => {
         {filteredApps.length ? (
           filteredApps.map((singleData) => (
             <AppCard key={singleData.id} singleData={singleData}></AppCard>
+            
           ))
         ) : (
           <p className="text-center text-gray-400">No App Found..</p>
