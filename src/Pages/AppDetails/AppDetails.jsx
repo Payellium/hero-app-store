@@ -13,6 +13,7 @@ import {
   Tooltip,
   ResponsiveContainer,
 } from "recharts";
+import { addToInstalledApps } from "../../Utility/appsInstalled";
 
 const AppDetails = () => {
   const data = useLoaderData();
@@ -32,7 +33,11 @@ const AppDetails = () => {
     reviews,
     size,
   } = singleApp;
-  console.log(ratings);
+  // console.log(ratings);
+
+  const handleInstall = (id)=>{
+    addToInstalledApps(id);
+  }
 
   return (
     <div>
@@ -68,7 +73,7 @@ const AppDetails = () => {
             </div>
           </div>
           <div className="mt-5">
-            <button className="btn btn-active btn-accent text-white">
+            <button onClick={()=>handleInstall(id)} className="btn btn-active btn-accent text-white mb-5">
               Install Now ({size} MB)
             </button>
           </div>
