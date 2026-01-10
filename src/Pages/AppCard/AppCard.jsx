@@ -4,7 +4,7 @@ import rating from "../../assets/icon-ratings.png";
 import { Link } from "react-router";
 
 const AppCard = ({ singleData }) => {
-  const { image, title, ratingAvg, downloads } = singleData;
+  const { image, title, ratingAvg, downloads, } = singleData;
 
   return (
     <Link to={`/appDetails/${singleData.id}`}>

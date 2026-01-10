@@ -14,7 +14,7 @@ const addToInstalledApps = (id)=>{
     const installedApps = getInstalledApps();
 
     if(installedApps.includes(id)){
-        alert("This App is already Installed!!!!");
+        // alert("This App is already Installed!!!!");
     }
     else{
         installedApps.push(id);
@@ -22,4 +22,12 @@ const addToInstalledApps = (id)=>{
         localStorage.setItem("installed", data);
     }
 }
-export {addToInstalledApps, getInstalledApps}
+
+const removeInstalledApp = (id) =>{
+    const stored = getInstalledApps();
+    const updated = stored.filter((storedId)=>parseInt(storedId) !== parseInt(id));
+    const updatedData = JSON.stringify(updated);
+    localStorage.setItem("installed", updatedData);
+}
+
+export {addToInstalledApps, getInstalledApps, removeInstalledApp}

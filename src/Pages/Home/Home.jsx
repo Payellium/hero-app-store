@@ -3,7 +3,7 @@ import Banner from '../../Components/Banner/Banner';
 import StateSection from '../../Components/StateSection/StateSection';
 import { Navigate, useLoaderData, useNavigate } from 'react-router';
 import Apps from '../Apps/Apps';
-
+ 
 
 const Home = () => {
 
@@ -19,6 +19,7 @@ const Home = () => {
             <div className='flex items-center justify-center'>
                 <button onClick={()=> navigate("apps")} className="btn bg-linear-to-r from-[#632EE3] to-[#9F62F2] text-white p-4">Show All</button>
             </div>
+            
         </div>
     );
 };
